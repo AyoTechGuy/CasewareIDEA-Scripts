@@ -6,5 +6,6 @@ as trigger words for a new line (e.g., debit, counter credit, standing order), p
 text format of date fields, and reimports the merged results back into IDEA as a new database.
 The script improves efficiency and consistency in cleaning and structuring
 bank transaction data for further analysis.
+
 Some Barclays bank statements are laid out like this below
 ![Image Alt](https://github.com/AyoTechGuy/CasewareIDEA-Scripts/blob/bb04732ce172671b4ce6c119427e72c3adab304e/Screenshot%202026-01-10%20083653.png)
