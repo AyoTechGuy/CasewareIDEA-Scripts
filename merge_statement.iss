@@ -98,7 +98,7 @@ Sub Main
 			FieldNames(columnCount) = thisField.Name
 		End If
 	Next i
-	If columnCount = 0 Then
+	If columnCount < 5 Then
 		MsgBox "You need at least 5 character value fields for this macro to work.",48
 		Exit Sub
 	End If
