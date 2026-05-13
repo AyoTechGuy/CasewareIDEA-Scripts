@@ -10,7 +10,7 @@ bank transaction data for further analysis.
 Some Barclays bank statements are laid out like this below
 ![Image Alt](https://github.com/AyoTechGuy/CasewareIDEA-Scripts/blob/bb04732ce172671b4ce6c119427e72c3adab304e/Screenshot%202026-01-10%20083653.png)
 
-When importing into CasewareIDEA, import should be done line by line and final import should look like below. I always recommend importing all parameters as character
+When importing into CasewareIDEA, import should be done line by line and final import should look like below. I always recommend importing all fields as character
 
 ![Image Alt](https://github.com/AyoTechGuy/CasewareIDEA-Scripts/blob/c5c1a54c1eb357d81ea78d1b1af4f8557efd5d7d/Screenshot%202026-01-10%20085114.png)
 
